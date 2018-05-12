@@ -1,10 +1,16 @@
 _repo: The-Vagrancy-Problem-The-Case-for-Measures-of-Restraint-for-Tramps-Loafers-and-Unemployables_46904
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46904-h/images/cover.jpg
 creator:
   author:
     agent_name: Dawson, William Harbutt
     gutenberg_agent_id: '7779'
     url: http://www.gutenberg.org/2009/agents/7779
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46904#The-Vagrancy-Problem-The-Case-for-Measures-of-Restraint-for-Tramps-Loafers-and-Unemployables
 gutenberg_issued: '2014-09-19'
 gutenberg_type: Text
 identifiers:
